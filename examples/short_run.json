@@ -1,0 +1,9 @@
+{
+  "PolyRound": {
+    "round": true
+  },
+  "HOPS": {
+    "numberOfSamples": 10000,
+    "thinning": 1
+  }
+}

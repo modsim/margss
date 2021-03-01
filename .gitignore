@@ -1,0 +1,7 @@
+node_modules/
+.idea
+venv/
+workspace
+build/
+backend/views
+node_modules

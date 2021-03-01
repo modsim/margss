@@ -1,0 +1,60 @@
+.description {
+    background-color: rgb(151, 185, 226);
+    color: #003d65;
+}
+
+.navbar-custom {
+    background-color: #003d65;
+}
+
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgb(255, 255, 255);
+}
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: rgb(151, 185, 226);
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #97b9e2;
+}
+
+h4, h5 {
+    color: #003d65;
+}
+
+.tableFixHead {
+    overflow-y: auto;
+    height: 100px;
+}
+
+.tableFixHead thead th {
+    position: sticky;
+    top: 0;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px 16px;
+    color: #003d65;
+}
+
+thead {
+    color: #003d65;
+}
+
+th {
+    background: #96b8e0;
+    color: #003d65;
+}
+

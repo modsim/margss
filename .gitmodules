@@ -1,0 +1,6 @@
+[submodule "PolyRound"]
+	path = PolyRound
+	url = https://gitlab.com/csb.ethz/PolyRound
+[submodule "hops"]
+	path = hops
+	url = https://github.com/modsim/hops
