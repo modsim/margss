@@ -11,6 +11,10 @@ docker build -t margss-image . && docker run -d -p 8080:8080 margss-image
 
 and access at [localhost:8080](localhost:8080).
 
+# Background
+
+MARGSS is powered by [PolyRound](https://gitlab.com/csb.ethz/PolyRound) and [HOPS](https://github.com/modsim/hops).
+
 
 
 # Frontend
