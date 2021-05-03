@@ -34,5 +34,6 @@ WORKDIR /margss/backend/
 RUN npm i
 EXPOSE 8080
 
-RUN apt-get install curl
+RUN apt-get update -y
+RUN apt-get install curl -y
 CMD npm run start
